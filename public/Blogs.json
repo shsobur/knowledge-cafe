@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/W5WftDV/bram-naus-n8-Qb1-ZAk-K88-unsplash.jpg",
+    "title": "The Mystery of Lost Atlantis",
+    "author": "Emily Johnson",
+    "author_img": "https://i.ibb.co/rQ8c42f/icon-256x256.png",
+    "post_date": "2024-03-15",
+    "reading_time": "20 mins",
+    "hashtag": ["mystery", "adventure", "history"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/Xsc8rym/c-d-x-PDX-a-82obo-unsplash.jpg",
+    "title": "Secrets of the Forest",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co/JyTwNKF/images-1.png",
+    "post_date": "2024-03-14",
+    "reading_time": "15 mins",
+    "hashtag": ["nature", "exploration", "wildlife"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/Xsc8rym/c-d-x-PDX-a-82obo-unsplash.jpghttps://i.ibb.co/G3pxJzB/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
+    "title": "The Enigma of Time Travel",
+    "author": "Sarah Lee",
+    "author_img": "https://i.ibb.co/kcwqFHj/images-2.png",
+    "post_date": "2024-03-13",
+    "reading_time": "25 mins",
+    "hashtag": ["sciencefiction", "timetravel", "technology"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/xJDK9ww/designecologist-Pmh0-Uo-G1vl-E-unsplash.jpg",
+    "title": "In Pursuit of Knowledge",
+    "author": "Michael Brown",
+    "author_img": "https://i.ibb.co/17TByyY/images-3.png",
+    "post_date": "2024-03-12",
+    "reading_time": "30 mins",
+    "hashtag": ["education", "learning", "growth"]
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co/554LkS2/magnet-me-315v-PGs-AFUk-unsplash.jpg",
+    "title": "Echoes of Forgotten Lands",
+    "author": "Emma Garcia",
+    "author_img": "https://i.ibb.co/8xb56t3/images.png",
+    "post_date": "2024-03-11",
+    "reading_time": "18 mins",
+    "hashtag": ["history", "archaeology", "culture"]
+  }
+]
